@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Anek";
+  src: url("../assets/fonts/AnekDevanagari-VariableFont_wdth\,wght.ttf");
+}
+html {
+  scrollbar-color: #00adb5 #222831;
+  scrollbar-width: thin;
+}
+body {
+  margin: 0;
+  padding: 4rem 0;
+  background: #222831;
+  color: #eeeeee;
+  font-family: "Anek";
+}
+.test {
+  color: #222831;
+  color: #393e46;
+  color: #00adb5;
+  color: #eeeeee;
+}

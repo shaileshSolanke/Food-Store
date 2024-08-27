@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+.order-summary{
+    margin-top: 1rem;
+    padding-inline: 1rem;
+}
+.product-summary{
+    display: flex;
+    overflow: scroll;
+    scrollbar-width: none;
+}

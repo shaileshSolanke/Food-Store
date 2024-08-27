@@ -1,0 +1,21 @@
+
+    Order Receipt
+
+        
+  Product-Id : cfj6pv4wax1ujvt7sb73-orange-nagpur
+  Quantity : 1
+  Delivery-Option-Id : 1
+  ,
+  Product-Id : r8bbkahi5ater3brkgvf-fresh-blueberry
+  Quantity : 1
+  Delivery-Option-Id : 1
+  ,
+  Product-Id : 3bm8234xauwbjpjqxivq-raw-banana-madras
+  Quantity : 1
+  Delivery-Option-Id : 1
+  
+
+    Thank you for your order!
+
+    
+  
