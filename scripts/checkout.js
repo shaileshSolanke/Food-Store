@@ -12,7 +12,7 @@ if (cart.length === 0) {
 }
 
 order.addEventListener("click", () => {
-  order.innerHTML=`<img src="../assets/icons/loading.svg">`
+  order.innerHTML=`<img src="./assets/icons/loading.svg">`
   setTimeout(() => {
     let cart = JSON.parse(localStorage.getItem("cart"));
 
